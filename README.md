@@ -7,3 +7,6 @@ I created the Treasure Island mini-text game and experimented with the ASCII art
 # Day 2
 Made the Love calculator, Rock Paper Scissors, Rollecoaster ride entry and Pizzeria
 Tried to use lists and some operations like "and" "or"
+
+# Day 3
+Learned about lists, nested lists, replacing items in a list and the random module. 
