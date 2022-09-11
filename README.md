@@ -10,3 +10,6 @@ Tried to use lists and some operations like "and" "or"
 
 # Day 3
 Learned about lists, nested lists, replacing items in a list and the random module. 
+
+# Day 4
+For loop, random choice again, calculator creation. 
