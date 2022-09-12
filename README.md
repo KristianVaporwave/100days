@@ -13,3 +13,6 @@ Learned about lists, nested lists, replacing items in a list and the random modu
 
 # Day 4
 For loop, random choice again, calculator creation. 
+
+# Day 5 
+While loops, using Reeborg and completing the maze. Found it difficult to debug the infnite loop
