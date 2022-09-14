@@ -19,3 +19,6 @@ While loops, using Reeborg and completing the maze. Found it difficult to debug 
 
 # Day 6
 Using a lot of knowledge bundled up together. Utilizing while loops with if and else statements. Implementing lists, importing modules and understanding how loops function
+
+# Day 7
+Used more functions and learned how to shift positions in lists. My decipher can still be improved, I'll tackle it tomorrow!
