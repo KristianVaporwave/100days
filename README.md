@@ -22,3 +22,6 @@ Using a lot of knowledge bundled up together. Utilizing while loops with if and 
 
 # Day 7
 Used more functions and learned how to shift positions in lists. My decipher can still be improved, I'll tackle it tomorrow!
+
+# Day 8
+Used dictionaries, used replit module, nesting, and created an action house project. 
