@@ -25,3 +25,6 @@ Used more functions and learned how to shift positions in lists. My decipher can
 
 # Day 8
 Used dictionaries, used replit module, nesting, and created an action house project. 
+
+# Day 9
+Leap year, functions, recursive loops, calculator
