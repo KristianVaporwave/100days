@@ -28,3 +28,6 @@ Used dictionaries, used replit module, nesting, and created an action house proj
 
 # Day 9
 Leap year, functions, recursive loops, calculator
+
+# Day 10
+Black jack counting system
