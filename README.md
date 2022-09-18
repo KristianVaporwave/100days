@@ -31,3 +31,6 @@ Leap year, functions, recursive loops, calculator
 
 # Day 10
 Black jack counting system
+
+# Day 10
+Started the blackjack project, finished the if statements of win/lose on 21, and started to implement replay function. 
