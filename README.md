@@ -34,3 +34,6 @@ Black jack counting system
 
 # Day 11
 Started the blackjack project, finished the if statements of win/lose on 21, and started to implement replay function. 
+
+# Day 12
+Finished the blackjack project. Had a somewhat hard time with the functions and while loops. But it turned out good
