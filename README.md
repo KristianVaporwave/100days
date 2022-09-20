@@ -37,3 +37,6 @@ Started the blackjack project, finished the if statements of win/lose on 21, and
 
 # Day 12
 Finished the blackjack project. Had a somewhat hard time with the functions and while loops. But it turned out good
+
+# Day 13
+Probability, random module
