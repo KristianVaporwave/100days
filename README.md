@@ -41,5 +41,5 @@ Finished the blackjack project. Had a somewhat hard time with the functions and 
 # Day 13
 Probability, random module
 
-# Day 15
+# Day 14
 Guessing game, local and global variables
