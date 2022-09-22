@@ -43,3 +43,6 @@ Probability, random module
 
 # Day 14
 Guessing game, local and global variables
+
+# Day 15
+Debugging code, and learning how to solve problems
