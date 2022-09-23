@@ -46,3 +46,6 @@ Guessing game, local and global variables
 
 # Day 15
 Debugging code, and learning how to solve problems
+
+# Day 16
+Started higher or lower game
