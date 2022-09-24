@@ -49,3 +49,6 @@ Debugging code, and learning how to solve problems
 
 # Day 16
 Started higher or lower game
+
+# Day 17
+Finished higher or lower game
