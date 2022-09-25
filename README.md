@@ -52,3 +52,6 @@ Started higher or lower game
 
 # Day 17
 Finished higher or lower game
+
+# Day 18
+Coffee machine
