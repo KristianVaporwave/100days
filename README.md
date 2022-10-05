@@ -64,3 +64,12 @@ Using objects and creating a new coffee machine
 
 # Day 21
 Uploaded after midnight. object improvement
+
+# Day 22
+Work with turtles and implementing the graphic functions
+
+# Day 23
+debugging turtle codes
+
+# Day 24
+Etch a sketch in the turtle module and turtle race
